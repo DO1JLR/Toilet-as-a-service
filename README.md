@@ -26,7 +26,7 @@ Or you can just Execute the Bash File do download some youtube Videos via youtub
 
 But for this you need youtube-dl installed
 ```bash
-  sudo apt-get install python3-pip
+  sudo apt-get install python3-pip ffmpeg
   pip3 install youtube-dl
   ./download_videos.sh
 
