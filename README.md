@@ -10,6 +10,7 @@ You need to install the [Info-Beamer](https://info-beamer.com/pi) Version for th
    libpng12-0 libfreetype6 libavresample2
 
 ```
+*Maybe you have some [Trouble](https://raspberrypi.stackexchange.com/questions/59435/how-to-use-stretch-testing-packages) while istalling some deprecated packages...*
 
 Follow [these](https://info-beamer.com/doc/info-beamer#raspberrypiversion) Instructions to prepare the ``/boot/config.txt`` file for the info-beamer like setting the option ``gpu_mem=192``.
 
